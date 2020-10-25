@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Udacity_c1_Ex1"

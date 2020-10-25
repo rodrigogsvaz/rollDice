@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Roll Dice</string>
+
+    <string name="texto1">Happy Birthday!</string>
+    <string name="texto2">From Rodrigo</string>
+    <string name="_1">1</string>
+    <string name="roll">Roll</string>
+
+
+</resources>
